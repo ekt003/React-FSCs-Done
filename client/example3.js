@@ -3,7 +3,7 @@
 /** State of our friend list **/
 const friendState = {
   name: 'Cody',
-  friends: ['My', 'Myself', 'I', 'The gangs all here'], 
+  friends: ['Me', 'Myself', 'I', 'The gangs all here'], 
 }
 
 /** State of our new friend input **/
